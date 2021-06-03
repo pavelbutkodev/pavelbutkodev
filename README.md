@@ -17,12 +17,11 @@
 
 <br />
 <br />
-<br />
 
 Hi, I'm [Pavel Butko](https://github.com/pavelbutkodev), a Front-end web developer.
   
 - 💬 Ask me about anything, I am happy to help;
-- 📝 [Resume](https://github.com/pavelbutkodev)
+- 📝  [Resume](https://github.com/pavelbutkodev)
 
 **Languages and Tools:**  
 
