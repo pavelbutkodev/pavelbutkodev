@@ -2,7 +2,6 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-
 <a href="https://discord.gg/">
   <img align="left" alt="Pavel's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -15,8 +14,6 @@
 <a href="https://open.spotify.com">
   <img align="left" alt="Pavel's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <br />
 
@@ -38,9 +35,14 @@ Hi, I'm [Pavel Butko](https://github.com/pavelbutkodev), a passionate self-taugh
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<br />
+<br />
+<br />
+<br />
+
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pavelbutkodev&show_icons=true&theme=gotham" alt="pavelbutkodev" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=pavelbutkodev&show_icons=true&theme=gotham" alt="pavelbutkodev" />
 
 
 
