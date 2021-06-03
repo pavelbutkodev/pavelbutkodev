@@ -17,7 +17,7 @@
 
 <br />
 
-Hi, I'm [Pavel Butko](https://github.com/pavelbutkodev), a passionate self-taught Front-end web developer.
+Hi, I'm [Pavel Butko](https://github.com/pavelbutkodev), a Front-end web developer.
   
 - 💬 Ask me about anything, I am happy to help;
 - 📝 [Resume](https://github.com/pavelbutkodev)
@@ -35,6 +35,8 @@ Hi, I'm [Pavel Butko](https://github.com/pavelbutkodev), a passionate self-taugh
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<br />
+<br />
 <br />
 <br />
 <br />
